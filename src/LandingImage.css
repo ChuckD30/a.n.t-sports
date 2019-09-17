@@ -1,0 +1,30 @@
+.landing {
+  padding: 150px 50px;
+  width: 50%;
+  color: white;
+}
+
+.crazy {
+  text-align: center !important;
+}
+
+.shop {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.shopButton {
+  padding: 10px;
+  list-style:none;
+  border-radius: 50%;
+}
+
+.duplicateContainer .container{
+  height: 90%;
+}
+
+/* .duplicateContainer .container {
+  background-size: 100px;
+  width: 50%;
+} */

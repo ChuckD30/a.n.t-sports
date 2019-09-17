@@ -1,0 +1,25 @@
+* {
+  font-family: 'Oswald', sans-serif;
+}
+
+#shoes {
+  width: 250px;
+  border: 1px solid gray;
+}
+
+.shoeSection {
+  list-style: none;
+  display: inline-block;
+  padding: 30px;
+  text-align: justify;
+  /* text-indent: 10px;   */
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}

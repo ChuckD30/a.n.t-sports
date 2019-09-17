@@ -1,0 +1,33 @@
+.footerContainer{
+  /* margin: 80px; */
+  padding: 100px 200px;
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+  /* font-weight: bold; */
+}
+
+/* .icons {
+  grid-column-start: 1;
+} */
+
+li {
+  list-style-type: none;
+  font-family: sans-serif;
+  font-weight: 30px;
+  line-height: 40px;
+  font-size: 14px;
+}
+
+.endFooter {
+  display: grid;
+  grid-template-columns: 3fr 3fr 3fr auto;
+  padding: 50px 300px;
+  background: black;
+  color: white;
+}
+
+.social {
+  grid-column-start: span 2;
+  grid-column-end: 7;
+
+}
